@@ -1,3 +1,7 @@
+using System;
+using System.Linq;
+using System.Collections.Generic;
+
 namespace DevToolbox.Helpers 
 {
   public static class CollectionFunctions
